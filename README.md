@@ -1,10 +1,10 @@
 # Learn Python 
-Keep track of my learning progress with the python language and c catalogue of self-defined useful functions
+A collection of resources I've found particularly useful for learning scientific computing with Python.  
 
-### Project Organization
 
-    ├── README.md                 <- README   
-    ├── notebooks                 <- Jupyter notebooks    
-    ├── setup.py                  <- Makes project pip installable (pip install -e .) so that src can be imported  
-    ├── src                       <- Source code for use in project  
-        └── __init__.py           <- Makes src a Python module  
+### Repo Organization
+
+    ├── README.md                           <- README   
+    ├── notebooks                           <- Jupyter notebooks    
+    ├── numpy-100                           <- 100 Numpy exercises 
+        └── 100_Numpy_exercises.ipynb     
